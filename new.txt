@@ -1,0 +1,4 @@
+FIO: Plotnikova Julia
+Age: 27
+Pets: 2
+Salary: 123456
